@@ -11,6 +11,9 @@ div{
     border-radius: 10px;
     box-shadow: 5px 5px 5px;
 }
+.pic-title{
+    text-decoration: underline;
+}
 img{
     width: 300px;
 }
